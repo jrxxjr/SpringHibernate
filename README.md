@@ -14,8 +14,7 @@ Exemplo de Aplicação Java usando Spring Framework com JPA e Hibernate.
 5 - Deve-se executar a classe CreateTabelas.
 
 6 - Verificar se as tabelas da aplicação foram criadas e populadas. 
-
-
+____________________________________________________________________________________________________________________
 
 English:
 # Example of using Spring with JPA
