@@ -1,5 +1,5 @@
 Portuguese:  
-﻿# Exemplo de utilização do Spring com JPA
+# Exemplo de utilização do Spring com JPA
 
 Exemplo de Aplicação Java usando Spring Framework com JPA e Hibernate. 
 
